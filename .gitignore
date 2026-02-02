@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.env
+
+# Project Specific
+datasets/
+runs/
+inference_results/
+dross.yaml
+
+# Data (Exclude raw images and labels)
+完整电池切图/
+有焊渣图片/
+焊渣标注图/
+*.zip
+*.pptx
+
+# Model weights
+*.pt
+*.onnx
+
+# Tools/Temporary
+inspect_data.py

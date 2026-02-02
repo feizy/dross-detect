@@ -1,0 +1,6 @@
+ultralytics
+shapely
+numpy
+matplotlib
+opencv-python
+tqdm
