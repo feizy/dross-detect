@@ -6,10 +6,10 @@ __pycache__/
 .env
 
 # Project Specific
-datasets/
+datasets*/
 runs/
 inference_results/
-dross.yaml
+dross*.yaml
 
 # Data (Exclude raw images and labels)
 完整电池切图/
