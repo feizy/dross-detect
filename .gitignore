@@ -17,7 +17,7 @@ dross*.yaml
 焊渣标注图/
 *.zip
 *.pptx
-
+*.rar
 # Model weights
 *.pt
 *.onnx
